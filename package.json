@@ -3,8 +3,15 @@
   "version": "0.0.1",
   "main": "index.js",
   "jsnext:main": "index.es.js",
-  "author": "Hao Tang",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haotangio/redux-entity-box.git"
+  },
+  "author": "Hao Tang <haotang.io@gmail.com> (https://twitter.com/haotangio)",
+  "contributors": [
+    "Hao Tang <haotang.io@gmail.com>"
+  ],
+  "license": "MIT",
   "babel": {
     "presets": [
       "latest",
