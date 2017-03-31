@@ -1,6 +1,6 @@
 {
   "name": "redux-entity-box",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "jsnext:main": "index.es.js",
   "repository": {
